@@ -38,3 +38,11 @@
 2. [TCP-client Windows](https://github.com/wndrws/chatTCP_wincli)
 3. [UDP-server Windows](https://github.com/wndrws/chatUDP_winsrv)
 4. [UDP-client Linux](https://github.com/wndrws/chatUDP_lincli)
+
+## Пузанов Александр
+Электронная почта
+
+1. TCP server linux
+2. TCP client windows
+3. UDP server windows
+4. UDP client linux

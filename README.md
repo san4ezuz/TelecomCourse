@@ -41,7 +41,7 @@
 4. [UDP-client Linux](https://github.com/wndrws/chatUDP_lincli)
 
 ## Пузанов Александр
-Электронная почта
+[Электронная почта](https://github.com/san4ezuz/mytelecom)
 
 1. TCP server linux
 2. TCP client windows
